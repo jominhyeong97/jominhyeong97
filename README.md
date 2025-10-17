@@ -74,8 +74,9 @@
 <div align="center">
   <h3>📫 Contact</h3>
   <p>
-    <a href="mailto:jumbo0303@daum.net">📧 jumbo0303@daum.net</a><br/>
-    <a href="https://jumbo0303.tistory.com/">🌐 https://jumbo0303.tistory.com/</a>
+    <a href="mailto:jumbo0303@daum.net">이메일: jumbo0303@daum.net</a><br/>
+    <a href="https://jumbo0303.tistory.com/">개발블로그: https://jumbo0303.tistory.com/</a>
   </p>
 </div>
+
 
