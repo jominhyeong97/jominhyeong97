@@ -1,7 +1,7 @@
 <!-- 👋 Intro -->
 <div align="center">
 
-  <h2>👋 안녕하세요! 성장하는 백엔드 개발자 <strong>조민형</strong>입니다.</h2>
+  <h2> 안녕하세요! 성장하는 백엔드 개발자 <strong>조민형</strong>입니다.</h2>
   <p>
     안정적인 서버 구조와 클라우드 환경 구축에 관심이 많으며,  
     <strong>Spring Boot, AWS, CI/CD, Kubernetes</strong> 중심으로 서비스를 개발하고 있습니다.<br/>
@@ -74,7 +74,8 @@
 <div align="center">
   <h3>📫 Contact</h3>
   <p>
-    <a href="mailto:your_email@example.com">📧 your_email@example.com</a><br/>
+    <a href="mailto:jumbo0303@daum.net">📧 jumbo0303@daum.net</a><br/>
     <a href="https://jumbo0303.tistory.com/">🌐 https://jumbo0303.tistory.com/</a>
   </p>
 </div>
+
