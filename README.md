@@ -1,5 +1,21 @@
+<!-- 👋 Intro -->
+<div align="center">
+
+  <h2>👋 안녕하세요! 성장하는 백엔드 개발자 <strong>조민형</strong>입니다.</h2>
+  <p>
+    안정적인 서버 구조와 클라우드 환경 구축에 관심이 많으며,  
+    <strong>Spring Boot, AWS, CI/CD, Kubernetes</strong> 중심으로 서비스를 개발하고 있습니다.<br/>
+    데이터 흐름을 설계하고 문제를 구조적으로 해결하는 걸 좋아합니다.
+  </p>
+
+</div>
+
+---
+
 <!-- 💻 Tech Stack -->
 <div align="center">
+
+  <h3>💻 Tech Stack</h3>
 
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -35,9 +51,30 @@
 
 ---
 
+<!-- 📊 GitHub Stats -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=jominhyeong97&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jominhyeong97&layout=compact&theme=tokyonight" height="150"/>
+</div>
+
+---
+
 <!-- 📝 Blog -->
 <div align="center">
+  <h3>📝 Blog</h3>
   <a href="https://jumbo0303.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
+</div>
+
+---
+
+<!-- 📫 Contact -->
+<div align="center">
+  <h3>📫 Contact</h3>
+  <p>
+    <a href="mailto:your_email@example.com">📧 your_email@example.com</a><br/>
+    <a href="https://jumbo0303.tistory.com/">🌐 https://jumbo0303.tistory.com/</a>
+  </p>
 </div>
