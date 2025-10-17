@@ -1,7 +1,6 @@
 <!-- 👋 Intro -->
 <div align="center">
 
-  <h2> 안녕하세요! 성장하는 백엔드 개발자 <strong>조민형</strong>입니다.</h2>
   <p>
     안정적인 서버 구조와 클라우드 환경 구축에 관심이 많으며,  
     <strong>Spring Boot, AWS, CI/CD, Kubernetes</strong> 중심으로 서비스를 개발하고 있습니다.<br/>
@@ -78,5 +77,6 @@
     <a href="https://jumbo0303.tistory.com/">개발블로그: https://jumbo0303.tistory.com/</a>
   </p>
 </div>
+
 
 
