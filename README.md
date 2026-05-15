@@ -53,8 +53,8 @@
 <!-- 📊 GitHub Stats -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jominhyeong97&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jominhyeong97&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jominhyeong97&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jominhyeong97&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
